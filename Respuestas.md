@@ -2,23 +2,6 @@
 
 ---
 
-### Levantar contenedores
-
-```
-docker compose up -d --build
-```
-
-### Detener los contenedores (conservando los  dashboards)
-
-```
-docker compose down 
-```
-
-### Detener los contenedores (borrando todo)
-
-```
-docker compose down -v
-```
 
 ## Breve explicación de cada componente del stack
 
