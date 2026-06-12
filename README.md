@@ -38,3 +38,5 @@ docker compose down
 ```
 docker compose down -v
 ```
+
+![Deteniendo contenedores y borrando volúmenes](imagenes/docker-down-v.png)
