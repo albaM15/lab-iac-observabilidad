@@ -1,4 +1,4 @@
-# INtrucciones para validar
+# Instrucciones para validar
 
 ## Levantar contenedores
 
