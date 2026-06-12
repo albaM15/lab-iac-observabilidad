@@ -1,4 +1,4 @@
-# INtrucciones para validar 
+# INtrucciones para validar
 
 ## Levantar contenedores
 
@@ -10,12 +10,12 @@ docker compose up -d --build
 
 ## Servicios principales
 
-| Servicio | URL | Qué deberías ver |
-| --- | --- | --- |
-| Frontend | http://localhost:8080 | Página "Hello World" con dos botones |
-| Backend | http://localhost:3001/metrics | Texto de métricas en formato Prometheus |
-| Grafana | http://localhost:3000 | Login (usuario `admin`, clave `admin`) |
-| Prometheus | http://localhost:9090 | Interfaz de Prometheus |
+| Servicio   | URL                           |
+| ---------- | ----------------------------- |
+| Frontend   | http://localhost:8080         |
+| Backend    | http://localhost:3001/metrics |
+| Grafana    | http://localhost:3000         |
+| Prometheus | http://localhost:9090         |
 
 ## Ver contenedores en ejecución
 
